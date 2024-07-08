@@ -1,1 +1,1 @@
-# Python_projrct
+# Python_project
